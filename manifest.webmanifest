@@ -1,0 +1,17 @@
+{
+  "name": "Sprachnotizen",
+  "short_name": "Sprachnotizen",
+  "description": "Diktiere Notizen, To-dos und Termine – automatisch sortiert und mit Google verknüpft.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f2e2d",
+  "theme_color": "#143d3c",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
